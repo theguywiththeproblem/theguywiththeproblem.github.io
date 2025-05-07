@@ -48,14 +48,15 @@
       "name": "pythonplayer123",
       "address": "https://ani3server.fly.dev"
     },
-    {
+ {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
-    }
-  ],
-  "cache": "https://servers.sidestore.io/servers.json.hash"
-},
-{
+    },
+  {
     "name": "notlameserver", 
     "address": "https://anisette-v3-server-avqn.onrender.com"
 }
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
+}
+
